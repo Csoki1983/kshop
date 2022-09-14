@@ -1,0 +1,9 @@
+<?php
+  unset($_SESSION['login']);
+  unset($_SESSION['login_id']);
+  unset($_SESSION['login_nev']);
+  unset($_SESSION['login_admin']);
+	unset($_SESSION['kosar']);
+	unset($_SESSION['osszesen']);
+	header("location:index.php");
+?>
