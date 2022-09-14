@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+body
+{
+	background-color:#444;
+	color:#FFF;
+}
+
+.tablazat a
+{
+	color:#ff0;
+	background-color:#f00;
+	padding:2px;
+}
+
+.lapoz_main
+{
+	background-color:#fff;
+	padding:5px;
+	margin:5px;
+	font-size:15pt;
+}
+	
+.lapoz
+{
+	color:#00f;
+}
+
+.lapoz_szurke
+{
+	color:#c0c0c0;
+}
+
+.lapoz_space
+{
+}	
+	
+.lapoz_aktualis
+{
+	font-weight:bold;
+	color:#000;
+}
+
+.lapoz_keret
+{
+}
+
+#kosar
+{
+	position:fixed;
+	right:0px;
+	top:0px;
+	width:60px;
+	height:30px;
+	background-color:#F00;
+	color:#FFF;
+	z-index:99999;
+	font-size:20px;
+	line-height:30px;
+	text-align:center;
+}
+
+a.teszt
+{
+	color:#ff0;
+}
+
+#kosar a
+{
+	color:#fff;
+	text-decoration:none;
+}
+
+#kosar a:hover
+{
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+
