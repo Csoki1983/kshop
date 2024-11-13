@@ -1,1 +1,1 @@
-Egyszerű kis képregény rendelős webshop. 
+Simple webshop for ordering comics.
